@@ -22,8 +22,8 @@ Version: 1.3
 
 ================================================================== */
 
-@import 'http://fonts.googleapis.com/css?family=Raleway:100,400,900,300';
-@import 'https://fonts.googleapis.com/css?family=Inconsolata:400,700';
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
 
 /* ==================================================================
                                 GENERAL
@@ -32,7 +32,7 @@ Version: 1.3
 body,
 html {
     width: 100%;
-    font-family: 'lato';
+    font-family: 'Raleway';
 }
 
 ul, 
@@ -539,7 +539,7 @@ body > .skiptranslate {
 
 .home-link span {
 
-    font-family: "lato";
+    font-family: "Raleway";
     font-size: 16px;
     font-weight: 900;
     letter-spacing: 4px;
@@ -685,7 +685,7 @@ body > .skiptranslate {
 .about-sub {
  
     color: #474444;
-    font-family: "lato";
+    font-family: "Raleway";
     font-size: 20px;
     font-weight: 400;
     letter-spacing: 5px;
